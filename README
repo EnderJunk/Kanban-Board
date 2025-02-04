@@ -16,6 +16,7 @@ A kanban board for managing tasks
 ## Usage
 
 - Setup db 'kanban_db' and run "npm run seed" to setup database, make sure to convert the .env.EXAMPLE and fill it out, then open in browser window after running "npm run start:dev" for a local instance
+- run seed file, and one of the seeded users is username:'JollyGuru' and password:'password'
 
 
 ## Contributing
@@ -26,3 +27,9 @@ A kanban board for managing tasks
 ## License
 
 - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Example
+
+- Live Site - https://kanban-board-mobd.onrender.com/
+
+- Screenshot - ![Image of App](./assets/kanbanboard.PNG)
